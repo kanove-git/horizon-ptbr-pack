@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Horizon em português do Brasil: ajustes, páginas e mensagens do próprio Horizon",
+    "pack_format": 97,
+    "min_format": 97,
+    "max_format": 200
+  }
+}
